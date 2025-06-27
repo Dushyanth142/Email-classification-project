@@ -3,7 +3,7 @@ Email Marketing Response Prediction
 
 Experience the model in action on Hugging Face Spaces:
 
-🔗 Launch the App
+https://huggingface.co/spaces/my-ml-experiments/my-app
 
 📄 Project Description
 This project delivers a complete, end-to-end machine learning solution to a critical business challenge: predicting customer response to email marketing campaigns. By leveraging a dataset of historical email interactions, our model accurately classifies whether a customer is likely to respond to an email advertisement.
