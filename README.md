@@ -22,7 +22,7 @@ Increase Efficiency: Reduce email traffic to uninterested users, improving email
 Boost ROI: Maximize the return on investment for marketing campaigns by directing resources where they will have the most impact.
 
 ✨ Key Features
-Full MLOps Pipeline: Demonstrates a complete workflow from data ingestion and preprocessing to model training, containerization, and public deployment.
+Full ML Pipeline: Demonstrates a complete workflow from data ingestion and preprocessing to model training, containerization, and public deployment.
 
 Robust Classification Model: A machine learning model trained on numerical and categorical features to provide actionable predictions.
 
